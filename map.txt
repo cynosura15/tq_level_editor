@@ -1,0 +1,56 @@
+-----Textures-----
+
+#tilesheet
+tilesheet_war.png
+
+#playertexture
+soldatFrancais40.png
+
+#matetexture
+soldatFrancais40.png
+
+#ennemytexture
+soldatAllemand40.png
+
+-----Map infos-----
+
+#mapsize
+20 14
+
+#playerspawn
+90 30
+
+#bossID
+-1
+
+#nextmap
+azert
+
+#quest
+az
+
+-----Entities-----
+
+#ennemy
+100 150 60 0
+#ennemy
+100 300 180 1
+#mate
+100 90 90 2
+Salut, je suis un mate
+
+-----Objects-----
+
+#gun
+mp40 150 120
+#gun
+mp40 420 150
+#medkit
+240 30
+#medkit
+240 240
+
+-----Tiles disposition-----
+
+#tiles
+5 5 5 5 5 5 5 1 1 1 2 2 2 2 2 2 2 2 2 2 5 5 5 5 5 5 5 1 1 1 2 2 2 2 2 2 2 2 2 2 5 5 5 5 5 5 5 1 1 1 2 2 2 2 2 2 2 2 2 2 5 5 5 5 5 5 5 1 1 1 2 2 1 1 1 1 1 1 2 2 5 5 5 5 5 5 5 1 1 1 2 1 1 1 1 1 1 1 2 0 5 5 5 5 5 5 5 1 1 1 1 1 1 1 1 1 1 1 2 0 2 2 2 2 2 2 2 1 1 1 1 1 1 1 1 1 1 1 2 0 2 2 2 2 2 2 2 1 1 1 1 1 1 1 1 1 1 1 2 0 2 2 2 2 2 2 1 1 1 1 1 1 1 1 1 1 1 1 2 0 2 2 2 2 1 1 1 1 1 1 1 1 1 1 1 1 1 1 2 0 2 2 2 2 1 1 1 1 1 1 2 2 2 2 2 2 2 2 2 0 2 2 2 2 1 1 1 1 1 2 2 2 2 2 2 2 2 2 2 0 2 2 2 2 1 1 1 2 2 2 2 2 2 2 2 2 2 2 2 0 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 0 0 
